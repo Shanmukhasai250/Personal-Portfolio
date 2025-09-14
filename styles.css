@@ -948,6 +948,7 @@ section {
     align-items: center;
     justify-content: center;
     min-height: 300px;
+    
 }
 
 .project-overlay {
@@ -1066,7 +1067,7 @@ section {
     font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 1rem;
-    color: var(--text-primary);
+    color: blue;
 }
 
 .project-description {
